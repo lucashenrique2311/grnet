@@ -1,0 +1,14 @@
+GRNet - Seu aplicativo oficial para internet e serviços de telecomunicações na Bahia. O GRNet é desenvolvido para facilitar o dia a dia dos nossos clientes com uma interface intuitiva e moderna, trazendo todos os serviços essenciais na palma da sua mão.
+
+Com o GRNet você pode consultar suas faturas e boletos de forma rápida e segura. Basta digitar seu CPF ou CNPJ e visualizar todos os seus contratos ativos em um só lugar. Gere segunda via instantaneamente com linha digitável e código PIX, copiando facilmente os dados para pagamento. A gestão completa de contratos permite visualizar informações detalhadas e acessar o histórico completo de suas faturas.
+
+Teste a velocidade da sua conexão de internet com o teste de velocidade integrado, verificando a qualidade da sua conexão em tempo real com resultados precisos e detalhados. Verifique também a área de atendimento da GRNet, consultando regiões cobertas pelos nossos serviços com mapa interativo. Acesse rapidamente os canais de atendimento com informações de contato sempre disponíveis e suporte especializado quando você precisar.
+
+O aplicativo oferece praticidade ao acessar boletos e contratos a qualquer hora e em qualquer lugar. Seus dados estão protegidos com as melhores práticas de segurança. Interface otimizada para acesso rápido aos serviços com design intuitivo, fácil de usar para qualquer pessoa. Totalmente gratuito, sem custos adicionais.
+
+Usar o GRNet é muito simples. Abra o aplicativo, digite seu CPF ou CNPJ, acesse seus contratos e boletos, e gere sua segunda via com um toque. Interface limpa e profissional, desenvolvida para proporcionar a melhor experiência possível com navegação intuitiva que permite encontrar rapidamente o que você precisa.
+
+Principais funcionalidades: consulta de boletos e faturas por CPF/CNPJ, geração de segunda via com código PIX e linha digitável, visualização de contratos ativos, teste de velocidade de internet integrado, informações de cobertura e área de atendimento, contatos e canais de atendimento, interface moderna e intuitiva, acesso rápido e seguro, totalmente gratuito.
+
+GRNet Bahia - Conectando você ao mundo digital! Precisa de ajuda? Entre em contato conosco através dos canais disponíveis no aplicativo. Nossa equipe está pronta para atender você.
+

@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build:ios": "cd grnet && eas build --platform ios --profile production",
+    "build:android": "cd grnet && eas build --platform android --profile production"
+  },
+  "dependencies": {
+    "expo-linear-gradient": "^14.1.5"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "GRNet",
+    "slug": "grnet",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.grnet.grnetapp",
+      "buildNumber": "1",
+      "appleTeamId": "D432BWZQ33"
+    },
+    "android": {
+      "package": "com.grnet.grnetapp",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "icon": "./assets/icon.png",
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "950b55e8-7db1-477d-96f9-fc893e977836"
+      }
+    },
+    "owner": "lucassilva2311"
+  }
+}
