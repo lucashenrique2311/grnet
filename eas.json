@@ -1,27 +1,38 @@
 {
   "cli": {
-    "version": ">= 16.17.4",
-    "appVersionSource": "remote"
+    "version": ">= 7.0.0"
   },
   "build": {
     "development": {
       "node": "20.19.4",
       "developmentClient": true,
       "distribution": "internal",
-      "ios": { "scheme": "grnet" }
+      "ios": { "scheme": "GRNet" }
     },
     "preview": {
       "node": "20.19.4",
       "distribution": "internal",
-      "ios": { "scheme": "grnet" }
+      "ios": { "scheme": "GRNet" },
+      "android": {
+        "buildType": "apk",
+        "gradleCommand": ":app:assembleRelease"
+      }
     },
     "production": {
       "node": "20.19.4",
-      "autoIncrement": true,
-      "ios": { "scheme": "grnet" }
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "ios": {
+        "scheme": "GRNet"
+      }
     }
   },
   "submit": {
-    "production": {}
+    "production": {
+      "ios": {
+        "appleTeamId": "D432BWZQ33"
+      }
+    }
   }
 }

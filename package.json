@@ -1,17 +1,31 @@
 {
-  "private": true,
+  "name": "grnet",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "build:ios": "cd grnet && eas build --platform ios --profile production",
-    "build:android": "cd grnet && eas build --platform android --profile production",
-    "android": "expo run:android",
-    "ios": "expo run:ios"
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "build:preview": "eas build --platform android --profile preview --clear-cache",
+    "build:production": "eas build --platform android --profile production --clear-cache",
+    "build:ios": "eas build --platform ios --profile production --clear-cache"
+  },
+  "engines": {
+    "node": ">=20.19.4"
   },
   "dependencies": {
-    "expo-linear-gradient": "^14.1.5",
-    "expo": "~54.0.33",
+    "@expo/vector-icons": "^15.0.0",
+    "babel-preset-expo": "^54.0.1",
+    "expo": "~54.0.0",
+    "expo-linear-gradient": "~15.0.7",
+    "expo-status-bar": "~3.0.8",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-native": "0.81.5",
+    "react-native-webview": "13.15.0"
   },
-  "name": "grnet",
-  "version": "1.0.0"
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
 }
