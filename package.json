@@ -2,9 +2,16 @@
   "private": true,
   "scripts": {
     "build:ios": "cd grnet && eas build --platform ios --profile production",
-    "build:android": "cd grnet && eas build --platform android --profile production"
+    "build:android": "cd grnet && eas build --platform android --profile production",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
   },
   "dependencies": {
-    "expo-linear-gradient": "^14.1.5"
-  }
+    "expo-linear-gradient": "^14.1.5",
+    "expo": "~54.0.33",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
+  "name": "grnet",
+  "version": "1.0.0"
 }
