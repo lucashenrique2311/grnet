@@ -7,15 +7,18 @@
     "development": {
       "node": "20.19.4",
       "developmentClient": true,
-      "distribution": "internal"
+      "distribution": "internal",
+      "ios": { "scheme": "grnet" }
     },
     "preview": {
       "node": "20.19.4",
-      "distribution": "internal"
+      "distribution": "internal",
+      "ios": { "scheme": "grnet" }
     },
     "production": {
       "node": "20.19.4",
-      "autoIncrement": true
+      "autoIncrement": true,
+      "ios": { "scheme": "grnet" }
     }
   },
   "submit": {

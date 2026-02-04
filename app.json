@@ -1,5 +1,7 @@
 {
   "expo": {
+    "name": "grnet",
+    "slug": "grnet",
     "extra": {
       "eas": {
         "projectId": "950b55e8-7db1-477d-96f9-fc893e977836"
